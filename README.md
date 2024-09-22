@@ -97,6 +97,10 @@ This project is a web application that utilizes Google Generative AI to assist m
 
 
 
+https://github.com/user-attachments/assets/e25850e0-ca8b-44b4-b39e-e11f61db1f1a
+
+
+
 
 ## Contributing
 
