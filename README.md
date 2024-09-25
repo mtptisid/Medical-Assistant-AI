@@ -34,8 +34,8 @@ This project is a web application that utilizes Google Generative AI to assist m
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/mtptisid/Medical-Assistant-AI.git
+   cd Medical-Assistant-AI
    ```
 
 2. **Install Dependencies**
