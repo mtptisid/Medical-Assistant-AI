@@ -84,7 +84,7 @@ This project is a web application that utilizes Google Generative AI to assist m
 └── requirements.txt      # List of dependencies (optional)
 ```
 
-## Screenshots
+## Screenshots :
 ...
 
 <img width="1440" alt="Screenshot 2024-09-22 at 2 02 24 PM" src="https://github.com/user-attachments/assets/ccc6bd92-55ff-4729-b415-1fdff4daf163">
@@ -93,7 +93,7 @@ This project is a web application that utilizes Google Generative AI to assist m
 <img width="1440" alt="Screenshot 2024-09-22 at 2 01 29 PM" src="https://github.com/user-attachments/assets/130f22fc-3570-4ea8-8e41-14b8e9073d24">
 
 
-## Videos
+## Videos :
 
 
 
